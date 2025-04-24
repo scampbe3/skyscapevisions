@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/skyscapevisions/static/css/main.10f158f8.css",
-    "main.js": "/skyscapevisions/static/js/main.969b24d2.js",
-    "static/js/453.c277ed3c.chunk.js": "/skyscapevisions/static/js/453.c277ed3c.chunk.js",
-    "static/media/thumbnail_ruins.jpg": "/skyscapevisions/static/media/thumbnail_ruins.218adfaf12120c3083df.jpg",
-    "static/media/thumbnail_fountainebleau.jpg": "/skyscapevisions/static/media/thumbnail_fountainebleau.b727d225ff185f07d0c4.jpg",
-    "static/media/thumbnail_bayonne.jpg": "/skyscapevisions/static/media/thumbnail_bayonne.472d5adb0ac6d1425383.jpg",
-    "static/media/thumbnail_garrett.webp": "/skyscapevisions/static/media/thumbnail_garrett.543730211d3f34763426.webp",
-    "static/media/thumbnail_samois.webp": "/skyscapevisions/static/media/thumbnail_samois.308cb014044459928db6.webp",
-    "static/media/thumbnail_tacony-palmyra.jpg": "/skyscapevisions/static/media/thumbnail_tacony-palmyra.de379ebb8896e70e0a86.jpg",
-    "static/media/thumbnail_latourette.webp": "/skyscapevisions/static/media/thumbnail_latourette.5c099ebd8a05b655c5be.webp",
-    "static/media/slick.svg": "/skyscapevisions/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/skyscapevisions/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/skyscapevisions/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/slick.woff": "/skyscapevisions/static/media/slick.295183786cd8a1389865.woff",
-    "index.html": "/skyscapevisions/index.html",
-    "main.10f158f8.css.map": "/skyscapevisions/static/css/main.10f158f8.css.map",
-    "main.969b24d2.js.map": "/skyscapevisions/static/js/main.969b24d2.js.map",
-    "453.c277ed3c.chunk.js.map": "/skyscapevisions/static/js/453.c277ed3c.chunk.js.map"
+    "main.css": "/static/css/main.1b006469.css",
+    "main.js": "/static/js/main.d7fcc0de.js",
+    "static/js/453.c277ed3c.chunk.js": "/static/js/453.c277ed3c.chunk.js",
+    "static/media/thumbnail_ruins.jpg": "/static/media/thumbnail_ruins.218adfaf12120c3083df.jpg",
+    "static/media/thumbnail_fountainebleau.jpg": "/static/media/thumbnail_fountainebleau.b727d225ff185f07d0c4.jpg",
+    "static/media/thumbnail_bayonne.jpg": "/static/media/thumbnail_bayonne.472d5adb0ac6d1425383.jpg",
+    "static/media/thumbnail_garrett.webp": "/static/media/thumbnail_garrett.543730211d3f34763426.webp",
+    "static/media/thumbnail_samois.webp": "/static/media/thumbnail_samois.308cb014044459928db6.webp",
+    "static/media/thumbnail_tacony-palmyra.jpg": "/static/media/thumbnail_tacony-palmyra.de379ebb8896e70e0a86.jpg",
+    "static/media/thumbnail_latourette.webp": "/static/media/thumbnail_latourette.5c099ebd8a05b655c5be.webp",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.1b006469.css.map": "/static/css/main.1b006469.css.map",
+    "main.d7fcc0de.js.map": "/static/js/main.d7fcc0de.js.map",
+    "453.c277ed3c.chunk.js.map": "/static/js/453.c277ed3c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.10f158f8.css",
-    "static/js/main.969b24d2.js"
+    "static/css/main.1b006469.css",
+    "static/js/main.d7fcc0de.js"
   ]
 }
